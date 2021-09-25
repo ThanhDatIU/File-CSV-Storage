@@ -1,6 +1,4 @@
-The United States of America, Life tables (period 1x1), Females	Last modified: 17 Mar 2021;  Methods Protocol: v6 (2017)
-
-  Year          Age         mx       qx    ax      lx      dx      Lx       Tx     ex
+Year          Age         mx       qx    ax      lx      dx      Lx       Tx     ex
   1933           0      0.05418  0.05208  0.26  100000    5208   96130  6279695  62.80
   1933           1      0.00887  0.00883  0.50   94792     837   94374  6183565  65.23
   1933           2      0.00402  0.00402  0.50   93955     377   93767  6089191  64.81
